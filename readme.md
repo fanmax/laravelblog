@@ -1,6 +1,11 @@
-## Laravel Modulate
+## Laravel Blog
 
-You module in app/Code/Blog. Rename Blog to name of you apllication.
-Register you module in "psr-4" of composer.json. Example "Blog\\": "app/Code/Blog/"
+Version 5.2
+
+#EN
+Application of type blog using the method modulate in laravel.
+
+#PT_BR
+Aplicação do tipo blog usando o metodo modular em laravel.
 
 
